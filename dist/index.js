@@ -1,0 +1,1 @@
+(()=>{"use strict";var o;console.log((o="17181920".split(""),void console.log(o)))})();
