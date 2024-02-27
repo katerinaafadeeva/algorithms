@@ -1,4 +1,4 @@
-export function countTheDivisible(x:number,y:number,k:number){
+function countTheDivisible(x:number,y:number,k:number){
     let count=0
 
     for (let i=x; i<=y; i++){

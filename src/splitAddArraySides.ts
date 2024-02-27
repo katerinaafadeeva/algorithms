@@ -1,6 +1,6 @@
 // kata: https://www.codewars.com/kata/5946a0a64a2c5b596500019a
 
-export function splitAndAdd(arr: Array<number>, n:number){
+function splitAndAdd(arr: Array<number>, n:number){
     for (let i =0; i<n; i++){
     if(arr.length % 2 !==0){
         arr.unshift(0);
