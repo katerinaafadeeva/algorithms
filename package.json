@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
     "start": "ts-node ./src/index.ts",
-    "build": "webpack"
+    "build": "webpack",
+    "run": "ts-node"
   },
   "keywords": [],
   "author": "",
@@ -26,3 +27,4 @@
     "webpack-cli": "^5.1.4"
   }
 }
+
